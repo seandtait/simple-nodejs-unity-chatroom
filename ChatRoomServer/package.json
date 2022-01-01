@@ -1,0 +1,15 @@
+{
+  "name": "chat_room_server",
+  "version": "1.0.0",
+  "description": "A simple chat room.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Sean Don Tait",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
